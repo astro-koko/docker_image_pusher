@@ -1,9 +1,10 @@
 nginx
 dreamacro/clash
-oldiy/baidupcs
 oldiy/chrome-novnc
 oldiy/firefox-novnc
 oldiy/aria2-ui-ng
 johngong/baidunetdisk
+ahmadnassri/vscode-server
+allanpk716/ddnsgo
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
