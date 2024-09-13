@@ -3,7 +3,7 @@ dreamacro/clash
 oldiy/chrome-novnc
 oldiy/firefox-novnc
 oldiy/aria2-ui-ng
-johngong/baidunetdisk
+tailscale/tailscale
 ahmadnassri/vscode-server
 allanpk716/ddnsgo
 codercom/code-server
